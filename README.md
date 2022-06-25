@@ -1,3 +1,3 @@
 # Interface of Udemy Increase Decrease
 
-![Interface of BurgerKart](Udemy-Increase-Decrease.png)
+![Interface of BurgerKart](Auto-Increase-Decrease.png)
